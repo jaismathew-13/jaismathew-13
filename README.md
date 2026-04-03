@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jais Mathew</h1>
+<h3 align="center">🚀 Frontend Developer | B.Tech CSE Student | Kerala, India</h3>
 
-<!--
-**jaismathew-13/jaismathew-13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech in Computer Science  
+- 💻 Passionate about Frontend Development  
+- 🌱 Currently learning **React & Next.js**  
+- 🤝 Open to collaboration on **Open Source & Projects**  
+- ⚡ Interested in **AI + Security (Bot Detection Systems)**  
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode,linux,figma" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaismathew-13&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: (add link)
+- Portfolio: (add link)
