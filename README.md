@@ -27,4 +27,4 @@
 
 ### 🌐 Connect
 - LinkedIn: (add link)
-- Email: (optional)
+- Email: (jaismathew19@gmail.com)
