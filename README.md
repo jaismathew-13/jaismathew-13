@@ -1,24 +1,15 @@
-<!-- HEADER BANNER -->
 <div align="center">
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║    ██╗ █████╗ ██╗███████╗    ███╗   ███╗ █████╗ ████████╗  ║
-║    ██║██╔══██╗██║██╔════╝    ████╗ ████║██╔══██╗╚══██╔══╝  ║
-║    ██║███████║██║███████╗    ██╔████╔██║███████║   ██║     ║
-║    ██║██╔══██║██║╚════██║    ██║╚██╔╝██║██╔══██║   ██║     ║
-║    ██║██║  ██║██║███████║    ██║ ╚═╝ ██║██║  ██║   ██║     ║
-║    ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-</div>
-<!-- TYPING TERMINAL EFFECT (GitHub supports HTML in READMEs) -->
-<div align="center">
-Show Image
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Jais+Mathew;B.Tech+CSE+%40+MITS+%7C+KTU;Security+%7C+AI%2FML+%7C+Systems+%7C+Backend)](https://git.io/typing-svg)
+
 </div>
 
-<!-- ABOUT SECTION AS A TERMINAL WINDOW -->
-> whoami
-bash$ cat about.txt
+---
+
+## `> whoami`
+
+```bash
+$ cat about.txt
 
   Name      : Jais Mathew
   Role      : B.Tech Computer Science Student (Year 3)
@@ -27,18 +18,23 @@ bash$ cat about.txt
   Mindset   : Build things. Break things. Understand everything.
 
 $ _
+```
 
-> ls ./skills
-<!-- LANGUAGES & TOOLS -->
-🖥️ Languages
+---
+
+## `> ls ./skills`
+
+### 🖥️ Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
-⚙️ Tools & Environments
+
+### ⚙️ Tools & Environments
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,sqlite,flask" />
 </p>
-🤖 AI / Agentic Dev
+
+### 🤖 AI / Agentic Dev
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" />
   &nbsp;
@@ -49,14 +45,17 @@ $ _
   <img src="https://img.shields.io/badge/Antigravity-181825?style=for-the-badge&logo=python&logoColor=FFD700" />
 </p>
 
-🐍 Yes, antigravity — import antigravity was how Python first made me smile.
+> 🐍 `import antigravity` — because Python should be fun.
 
+---
 
-> cat ./projects
+## `> cat ./projects`
+
+```
 ┌─────────────────────────────────────────────────────────────────┐
 │  PROJECT LOG                                              v2.0   │
 ├───────────────────────┬─────────────────────────────────────────┤
-│  🔒 Federated Biometrics  │ Siamese-EfficientNet + FedAvg for    │
+│  🔒 Federated Biometrics  │ Siamese-EfficientNet + FedAvg for   │
 │                       │ finger vein auth on MMCBNU_6000          │
 ├───────────────────────┼─────────────────────────────────────────┤
 │  🍯 HoneyTrap System  │ Flask bot detection, behavioral          │
@@ -71,18 +70,37 @@ $ _
 │  📊 DSA Visualizer    │ [ IN PROGRESS ] Interactive algo        │
 │                       │ visualizer + self-quizzer                │
 └───────────────────────┴─────────────────────────────────────────┘
+```
 
-> top --focus
-pythoncurrent_focus = [
+---
+
+## `> top --focus`
+
+```python
+current_focus = [
     "Data Structures & Algorithms  →  placement prep",
-    "Federated Learning            →  final year project (LaTeX docs)",
+    "Federated Learning            →  final year project",
     "Security Systems              →  bot detection & honeypots",
     "Backend Development           →  Flask, APIs, real-world tools",
 ]
+```
 
-# Always shipping. Always learning.
+---
 
-> ping ./connect
+## `> git log --stats`
+
+<div align="center">
+
+![Jais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaismathew-13&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaismathew-13&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9)
+
+</div>
+
+---
+
+## `> ping ./connect`
+
 <p align="left">
   <a href="mailto:jaismathew19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-jaismathew19%40gmail.com-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -93,17 +111,20 @@ pythoncurrent_focus = [
   </a>
 </p>
 
-<!-- GITHUB STATS -->
-> git log --stats
-<div align="center">
-Show Image
-Show Image
-</div>
+---
 
 <div align="center">
-╔══════════════════════════════════════════╗
-║   "First, solve the problem.             ║
-║    Then, write the code."                ║
-║                        — John Johnson    ║
-╚══════════════════════════════════════════╝
-Show Image
+
+```
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   And I, Icarus, still drunk with my great adventure,   ║
+║   will eternally persist in my great adventure.         ║
+║                         — Émile Nelligan               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jaismathew-13.jaismathew-13)
+
+</div>
