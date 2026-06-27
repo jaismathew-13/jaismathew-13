@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a third-year **Computer Science & Engineering** student at Muthoot Institute of Technology and Science (MITS, KTU). I am passionate about building real-world software, specializing in cybersecurity systems, practical machine learning/computer vision applications, and robust backend services.
+I am a fourth-year **Computer Science & Engineering** student at Muthoot Institute of Technology and Science (MITS, KTU). I am passionate about building real-world software, specializing in cybersecurity systems, practical machine learning/computer vision applications, and robust backend services.
 
 * **🛡️ Security & Privacy Focus:** Interested in federated learning architectures and active bot prevention.
 * **💡 Engineering Philosophy:** I believe in *learning by doing* — every project I build starts with a real-world problem I wanted to solve.
@@ -30,7 +30,7 @@ I am a third-year **Computer Science & Engineering** student at Muthoot Institut
 #### **Frameworks, Libraries & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,tensorflow,sqlite" alt="Frameworks & Databases" />
+    <img src="https://skillicons.dev/icons?i=flask,tensorflow,sqlite,pytorch" alt="Frameworks & Databases" />
   </a>
 </p>
 
@@ -72,11 +72,23 @@ I am a third-year **Computer Science & Engineering** student at Muthoot Institut
 - **Real-Time Pipeline:** Built frame-by-frame processing using OpenCV to overlay bounding boxes with minimal latency.
 - **Stack:** `YOLOv12`, `OpenCV`, `Python`, `PyTorch`
 
+#### 🤖 [Gradio Chatbot](https://github.com/jaismathew-13/day-1-gen-ai)
+*Dynamic chatbot program featuring customizable system prompt and adjustable temperature controls.*
+- **Interactive UI:** Built a Gradio interface with a custom system prompt textbox and temperature slider to dynamically tune chatbot personality and creativity.
+- **Streaming & History:** Supports real-time response streaming and maintains complete multi-turn conversation history.
+- **Stack:** `Python`, `Gradio`, `LLM APIs`
+
 #### 📧 [Gmail Classifier](https://github.com/jaismathew-13/gmail-classifier)
 *Chrome extension with local AI classification via Ollama (llama3.2).*
 - **Private local AI:** Parses incoming email contents and dynamically categorizes them locally to guarantee message privacy.
 - **DOM Integration:** Built a robust Chrome content script that injects category badges directly into the Gmail web interface.
 - **Stack:** `JavaScript`, `Ollama (Llama 3.2)`, `Chrome Extension API`, `HTML5`, `CSS3`
+
+#### 📅 [LifeTracker](https://github.com/jaismathew-13/lifetracker)
+*Personal productivity tracker Progressive Web App (PWA) to organize and track daily goals.*
+- **Offline-First PWA:** Developed a fully responsive web application with offline support and installable behavior.
+- **Habit Tracking:** Allows users to log, categorize, and visualize productivity habits over time.
+- **Stack:** `JavaScript`, `HTML5`, `CSS3`, `PWA APIs`
 
 ---
 
