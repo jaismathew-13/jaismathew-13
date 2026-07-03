@@ -132,10 +132,10 @@ I am a fourth-year **Computer Science & Engineering** student at Muthoot Institu
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=jaismathew-13&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="Jais's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=jaismathew-13&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9" alt="Jais's GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaismathew-13&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jaismathew-13&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Top Languages" />
       </td>
     </tr>
   </table>
